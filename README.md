@@ -1,11 +1,11 @@
-Hi 👋 My name is Digamber Rawat
+Hi 👋 My name is Suraj Kumar
 ===============================
 
-Full-Stack Engineer | Technical Author @positronx.io
+Full-Stack Developer
 ---------------
 
-* 🌍  I'm based in Delhi
-* ✉️  You can contact me at [digamber@positronx.io](mailto:digamber@positronx.io)
+* 🌍  I'm based in Lucknow
+* ✉️  You can contact me at [surajkumargautam7889@gmail.com](mailto:surajkumargautam7889@gmail.com)
 
 <a href="https://www.twitter.com/ImDigamberSingh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ImDigamberSingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
